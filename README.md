@@ -96,7 +96,7 @@ Don't forget to give the project a star! 🌟
 
 ## Contact
 
-Your Name - [@deliverymgt](https://twitter.com/deliverymgt.com) - m.pomar@outlook.com
+M. Pomar - [@deliverymgt](https://twitter.com/deliverymgt.com) - m.pomar@outlook.com
 
 Project Link: [https://github.com/mpomar/TennisAnalysis](https://github.com/mpomar/TennisAnalysis)
 
