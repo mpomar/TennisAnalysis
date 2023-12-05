@@ -110,14 +110,19 @@ It is undoubtedly the best resource available for tennis enthusiasts, and I stro
 While the script utilizes what, based on my experience, are the most crucial factors in evaluating a tennis match, there is much more valuable information to discover on their website. 
 Keep up the excellent work, guys! ❤️
 
+Other resources:
+
+* [Shields.io](https://shields.io)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[forks-shield]: https://img.shields.io/github/forks/mpomar/TennisAnalysis.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/mpomar/TennisAnalysis?style=for-the-badge
 [forks-url]: https://github.com/mpomar/TennisAnalysis/network/members
-[stars-shield]: https://img.shields.io/github/stars/mpomar/TennisAnalysis.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/mpomar/TennisAnalysis?style=for-the-badge
 [stars-url]: https://github.com/mpomar/TennisAnalysis/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mpomar/TennisAnalysis.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/mpomar/TennisAnalysis?style=for-the-badge
 [issues-url]: https://github.com/mpomar/TennisAnalysis/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/manfredipomar
