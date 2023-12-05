@@ -28,6 +28,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#understanding-the-data">Understanding The Data</a></li>
+      </ul>
     </li>
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#usage">Usage</a></li>
@@ -40,7 +41,7 @@
 <!-- BODY -->
 ## About The Project
 
-This script, developed for tennis enthusiasts and sports bettors, provides a swift comparative analysis of two tennis players based on essential metrics. Developed from personal insights into factors influencing match outcomes in Singles, the script is ideal for users familiar with the intricacies of tennis data. Aimed at facilitating efficient decision-making, especially in sports betting scenarios, users are encouraged to acquaint themselves with the primary metrics before utilization.
+This tool, developed for tennis enthusiasts and sports bettors, provides a swift comparative analysis of two tennis players based on essential metrics. Developed from personal insights into factors influencing match outcomes in Singles, it is ideal for users familiar with the intricacies of tennis data. Aimed at facilitating efficient decision-making, especially in sports betting scenarios, users are encouraged to acquaint themselves with the primary metrics before utilization.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,6 +97,7 @@ Don't forget to give the project a star! 🌟
 ## Contact
 
 Your Name - [@deliverymgt](https://twitter.com/deliverymgt.com) - m.pomar@outlook.com
+
 Project Link: [https://github.com/mpomar/TennisAnalysis](https://github.com/mpomar/TennisAnalysis)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
