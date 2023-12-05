@@ -1,10 +1,12 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
+[![Language][language-shield]][language-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][twitter-url]
 
 <!-- PROJECT LOGO & HEADER -->
 <br />
@@ -96,7 +98,7 @@ Don't forget to give the project a star! 🌟
 
 ## Contact
 
-M. Pomar - [@deliverymgt](https://twitter.com/deliverymgt.com) - m.pomar@outlook.com
+M. Pomar - [@deliverymgt](https://twitter.com/deliverymgt) - m.pomar@outlook.com
 
 Project Link: [https://github.com/mpomar/TennisAnalysis](https://github.com/mpomar/TennisAnalysis)
 
@@ -118,6 +120,8 @@ Other resources:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[language-shield]: https://img.shields.io/github/languages/top/mpomar/TennisAnalysis?style=for-the-badge
+[language-url]: https://github.com/mpomar/TennisAnalysis
 [forks-shield]: https://img.shields.io/github/forks/mpomar/TennisAnalysis?style=for-the-badge
 [forks-url]: https://github.com/mpomar/TennisAnalysis/network/members
 [stars-shield]: https://img.shields.io/github/stars/mpomar/TennisAnalysis?style=for-the-badge
@@ -126,3 +130,5 @@ Other resources:
 [issues-url]: https://github.com/mpomar/TennisAnalysis/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/manfredipomar
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
+[twitter-url]: https://twitter.com/deliverymgt
