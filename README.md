@@ -18,7 +18,7 @@
   <h3 align="center">Tennis Analysis</h3>
 
   <p align="center">
-    A tool to help you in the comparative analysis of two tennis players!
+    A tool to help you in the comparative analysis of two ATP tennis players!
   </p>
 </div>
 
@@ -43,7 +43,7 @@
 <!-- BODY -->
 ## About The Project
 
-This tool, developed for tennis enthusiasts and sports bettors, provides a swift comparative analysis of two tennis players based on essential metrics. Developed from personal insights into factors influencing match outcomes in Singles, it is ideal for users familiar with the intricacies of tennis data. Aimed at facilitating efficient decision-making, especially in sports betting scenarios, users are encouraged to acquaint themselves with the primary metrics before utilization.
+This tool, developed for tennis enthusiasts and sports bettors, provides a swift comparative analysis of two ATP tennis players based on essential metrics. Developed from personal insights into factors influencing match outcomes in Singles, it is ideal for users familiar with the intricacies of tennis data. Aimed at facilitating efficient decision-making, especially in sports betting scenarios, users are encouraged to acquaint themselves with the primary metrics before utilization.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
