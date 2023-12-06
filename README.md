@@ -55,24 +55,27 @@ It would take me ages to explain the theory behind this, but to summarize, these
 * **RPW/SPW ratio**: Analyzes the cross-section of service and return stats to gauge a player's defensive capabilities and advantages over their opponent. Example: A player excelling in receiving against an opponent with weak service indicates a significant advantage.
 * **Raw Elo**: Leverages Tennis Abstract's Elo ratings, deemed more reliable than official ATP rankings. I tend to focus on the Raw Elo specific to the surface of the match under consideration.
 * **Peak Match**: Identifies the pinnacle of a player's career based on Elo performance. Another indicator of a player's form: the more recent the peak match, the better. However, there are cases when this is irrelevant; learning when to take this into account requires time.
-* **Wildcard / Qualifiers**: Draws attention to the impact of wildcards and qualifiers as potential surprises, particularly in the early stages of a tournament. There are psychological and motivational factors contributing to their unpredictability, hence I recommend considering this in the analysis as well.
+* **Wildcards / Qualifiers**: Draws attention to the impact of wildcards and qualifiers as potential surprises, particularly in the early stages of a tournament. There are psychological and motivational factors contributing to their unpredictability, hence I recommend considering this in the analysis as well.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Prerequisites
 
-* Install all dependencies, included [Chromedriver](https://googlechromelabs.github.io/chrome-for-testing)
-* Provide the path to Chromedriver in scraper.py 
-* Once a year you might also want to update line 43 of scraper.py to ensure you take stats of the current year
+* Install Python and add to PATH
+* Create and activate virtual environment
+* Clone or download the repository
+* Install all dependencies and download [Chromedriver](https://googlechromelabs.github.io/chrome-for-testing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
 
-* Run the script from main.py.
-* Enter all the requested information.
-* Wait for the script to generate the results.
-* Review the results and make your own decision (again, it would take me a while to explain how I interpret the returned information).
+* Provide the path to Chromedriver in scraper.py
+* Once a year you might also want to update line 43 of scraper.py to ensure you take stats of the current year
+* Run main.py
+* Enter all the requested information
+* Wait for the script to generate the results
+* Review the results and make your own decisions (again, it would take me a while to explain how I interpret the returned information)
 
 Please note that for player names, they must match the format on Tennis Abstract.
 
@@ -80,7 +83,7 @@ Please note that for player names, they must match the format on Tennis Abstract
 
 ## Contributing
 
-Any contributions you make are **greatly appreciated**.
+Any contributions are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request:
 
